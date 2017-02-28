@@ -1,5 +1,5 @@
 /*  Example Program Simple Class Example Program In C++
-    little drops @ thiyagaraaj.com
+    little drops @ thiyagaraaj.com this is vijay
 
     Coded By:THIYAGARAAJ MP     This is for testing from ravindra   abcd   efghijk                  */
 
@@ -37,4 +37,4 @@ int main()
 
     getch();
     return 0;
-}
+this is add by vijay}
