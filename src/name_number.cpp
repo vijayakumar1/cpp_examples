@@ -1,5 +1,5 @@
 /*  Example Program Simple Class Example Program In C++
-    little drops @ thiyagaraaj.com this is vijay
+    little drops @ thiyagaraaj.com
 
     Coded By:THIYAGARAAJ MP     This is for testing from ravindra   abcd                     */
 
