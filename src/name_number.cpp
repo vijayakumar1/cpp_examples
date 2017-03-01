@@ -38,3 +38,5 @@ int main()
     getch();
     return 0;
 this is add by vijay}
+ab=back
+cd=git 
