@@ -43,6 +43,7 @@ cd=git
 this for today  commit number 2
 a+b=c_str
 this is for today commit number 3
+<<<<<<< HEAD
 c+d=f
 thi for new branch 
 ab
@@ -50,3 +51,6 @@ git
 this is for cherry pic
 aksfhvba
 aksjfb
+=======
+c+d=f
+>>>>>>> a31c96b... today commit 2
