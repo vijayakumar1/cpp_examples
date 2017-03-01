@@ -40,3 +40,7 @@ int main()
 this is add by vijay}
 ab=back
 cd=git 
+this for today  commit number 2
+a+b=c_str
+this is for today commit number 3
+c+d=f
