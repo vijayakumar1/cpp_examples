@@ -43,8 +43,8 @@ cd=git
 this for today  commit number 2
 a+b=c_str
 this is for today commit number 3
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 c+d=f
 thi for new branch 
 ab
@@ -54,13 +54,13 @@ aksfhvba
 aksjfb
 =======
 c+d=f
->>>>>>> a31c96b... today commit 2
+
 =======
 c+d=f
 thi for new branch 
 ab
 git 
->>>>>>> 646fa07... this is for branch creation
+
 lifyuawgiuffgwj
 skrufhwieur
 js;kdjf;nvksejr
@@ -69,6 +69,10 @@ ksjdfvbw
 
 This is for stash change
 
+
 This is stast second test
 
 This is stast third test
+
+this is lasjbiascjk
+
