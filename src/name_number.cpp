@@ -1,7 +1,7 @@
 /*  Example Program Simple Class Example Program In C++
     little drops @ thiyagaraaj.com this is vijay
 
-    Coded By:THIYAGARAAJ MP     This is for testing from ravindra   abcd                     */
+    Coded By:THIYAGARAAJ MP     This is for testing from ravindra   abcd   efghijk                  */
 
 // Header Files
 #include <iostream>
@@ -37,4 +37,33 @@ int main()
 
     getch();
     return 0;
-}
+this is add by vijay}
+ab=back
+cd=git 
+this for today  commit number 2
+a+b=c_str
+this is for today commit number 3
+<<<<<<< HEAD
+<<<<<<< HEAD
+c+d=f
+thi for new branch 
+ab
+git 
+this is for cherry pic
+aksfhvba
+aksjfb
+=======
+c+d=f
+>>>>>>> a31c96b... today commit 2
+=======
+c+d=f
+thi for new branch 
+ab
+git 
+>>>>>>> 646fa07... this is for branch creation
+lifyuawgiuffgwj
+skrufhwieur
+js;kdjf;nvksejr
+;saviuvncavusnnskzkjfv
+ksjdfvbw
+
